@@ -1,4 +1,4 @@
-#EXTENSIONS
+# EXTENSIONS
 
 Obtained by running:
 ```
@@ -36,7 +36,7 @@ robinbentley.sass-indented
 Tyriar.sort-lines  
 ```
 
-#INSTALL HELP
+# INSTALL HELP
 
 If you're not sure how to install, just hit CTRL+P in VS Code and type in "ext install NAME".
 
