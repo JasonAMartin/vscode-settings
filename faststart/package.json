@@ -1,8 +1,8 @@
 {
-    "name": "startupkit",
-    "displayName": "Dev Startup Kit",
-    "description": "A collection of extensions to setup a cool VSC environment and get coding now.",
-    "version": "0.0.1",
+    "name": "faststart",
+    "displayName": "Fast Start",
+    "description": "A collection of extensions to setup a great VSC environment and get coding.",
+    "version": "1.0.1",
     "publisher": "frozenrelic",
     "engines": {
         "vscode": "^1.24.0"
