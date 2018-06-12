@@ -1,6 +1,5 @@
 # FAST START
-## Setting up a great VSC environment to get coding now.
-=======================================================
+#### Setting up a great VSC environment to get coding now.
 
 
 This extension pack contains a lot of great extensions that I use often.
